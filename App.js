@@ -1,8 +1,4 @@
-const heading = React.createElement(
-  "h1",
-  { id: "heading" },
-  "Billionaire Mudit💥"
-);
+const heading = React.createElement("h1", { id: "heading" }, "Mudit💥");
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
